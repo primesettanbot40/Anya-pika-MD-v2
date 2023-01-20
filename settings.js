@@ -2,27 +2,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "𝗕𝗮𝗱𝗵𝘂💗" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.author = "𝗕𝗮𝗱𝗵𝘂💗"  
+global.packname = "𝗕𝗮𝗱𝗵𝘂💗"  
+global.myweb = "http://www.instagram.com/badhusha_asharaf#" // You can put any link 
+global.waterMark = "ī. am 💙҉️ ꪶ͢ʙᴀᴅʜᴜꫂ⁩" // Your own watermark 
+global.headerText = "ī. am 💙҉️ ꪶ͢ʙᴀᴅʜᴜꫂ⁩" // text for header of menu         
+global.DocumentTitle = "ī. am 💙҉️ ꪶ͢ʙᴀᴅʜᴜꫂ⁩" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
-global.ytname = "YT: Ytname"   // Yt chanel name //
+global.ownername = " 𝐵𝛥𝐷𝛨𝑈𝑆𝛨𝛥"   // Owner name //        
+global.ownernumber = ['916282970400'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : http://www.instagram.com/badhusha_asharaf#" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ytname = "YT: https://youtube.com/@badhusha_asharaf"   // Yt channel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.state = "Kerala" // your state name
+global.district = "Ekm" // your district name
+global.timezone = "Asia/Kerala" // search on google if you don't know the timezone of your country //
+global.instagramId = "http://www.instagram.com/badhusha_asharaf#" // Your insta ID
+global.email = "badhushaasharaf6@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
@@ -32,12 +32,12 @@ global.sudo = ['916900******','917355******']  // Co - Owners //
 global.prefa = ['-','🥵','🔥']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
+name16 = "ī. am   💙҉️ ꪶ͢ʙᴀᴅʜᴜꫂ⁩"
 name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
 name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
+footer1 = `ī. am   💙҉️ ꪶ͢ʙᴀᴅʜᴜꫂ⁩ `
 footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
@@ -76,8 +76,8 @@ global.mess = {
 }
 
 //--------------- Menu images ----------------\\
-global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
-global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
+global.Menuimage = fs.readFileSync("https://i.imgur.com/ktOVCMo.jpeg")
+global.thumnnaiIs = fs.readFileSync("https://i.imgur.com/ktOVCMo.jpeg")
 
 //--------------- Systemjc Function --------------\\
 global.autoTyping = false 
